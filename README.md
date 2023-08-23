@@ -1,4 +1,4 @@
-# Análisis de Datos con NumPy y Pandas
+# Manipulación y Transformación de Datos con NumPy y Pandas
 
 Bienvenido a este repositorio que contiene una guía detallada sobre el manejo y exploración de datos utilizando las potentes librerías NumPy y Pandas. Esta guía fue elaborada siguiendo el curso de Platzi de _Manejo de datos con pandas y numpy_. Aquí encontrarás información esencial para sacar el máximo provecho de estas herramientas en tus análisis y proyectos relacionados con datos.
 
