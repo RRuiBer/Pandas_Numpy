@@ -20,7 +20,7 @@ El repositorio contiene:
 
 1. **Guías NumPy y Pandas**: Explora las guías individuales para NumPy y Pandas en sus respectivas carpetas. Cada guía incluye explicaciones detalladas, ejemplos prácticos y consejos para el uso efectivo de las funciones.
 
-2. **Proyecto Complementario**: Sumérgete en el proyecto complementario para comprender cómo se puede aplicar el concepto de producto tensorial, usando en especifico el tensor de Levi-Civita, para calcular el producto cruz de dos vectores. Este proyecto está diseñado para ampliar tus conocimientos y explorar áreas más avanzadas de NumPy.
+2. **Proyecto Complementario**: Sumérgete en el [proyecto complementario](producto_cruz.ipynb) para comprender cómo se puede aplicar el concepto de producto tensorial, usando en especifico el tensor de Levi-Civita, para calcular el producto cruz de dos vectores. Este proyecto está diseñado para ampliar tus conocimientos y explorar áreas más avanzadas de NumPy.
 
 ## Contribuciones y Comentarios
 
